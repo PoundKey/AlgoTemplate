@@ -34,14 +34,14 @@
 ### 算法 (3x4)
 - [x] BFS
 - [x] DFS
-- [x] Backtracking: 回溯
+- [x] Backtracking
 
-- [x] Sorting
 - [x] Binary Search
+- [x] Sorting
 - [x] Two Pointers
 
-- [x] Divide and conquer
 - [x] Greedy Algorithm 
+- [x] Divide and conquer
 - [x] Dynamic Programming
 
 - [x] Prefix Sum
